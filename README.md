@@ -1,57 +1,92 @@
 Pandas 2025
-Curso renovado de Pandas realizado ao vivo de form gratuita, com gravação disponível no YouTube.
 
-Pré-requisito
-Ter Python instalado. Sugestão de vídeo para instalação, clique aqui.
-Python Básico: sintaxe da linguagem e lógica de programação. Conheça mais aqui.
-Material de apoio
-Temos um material de apoio para nosso treinamento, contendo algumas orientações e exercícios. Confira aqui.
+📌 Pré-requisitos
 
-Dados
-Utilizaremos dados reais durante o nosso curso. Acesse os dados aqui.
+Python instalado
 
-Ementa
-Principais objetos do Pandas
+Python Básico
+
+Sintaxe da linguagem
+
+Lógica de programação
+
+
+
+📘 Ementa
+🔹 Principais Objetos do Pandas
 
 Series
-Dataframes
-Importando arquivos com pandas
 
-csv; xlsx; parquet
-Navegando pelos dados:
+DataFrames
 
-Informações básicas
+🔹 Importando Arquivos com Pandas
+
+CSV
+
+XLSX
+
+Parquet
+
+🔹 Navegação e Exploração de Dados
+
+Informações básicas do DataFrame
+
 Tipos de colunas
+
 Navegação em linhas e colunas
-Renomeando colunas
-Filtrando dados
+
+Renomeação de colunas
+
+🔹 Filtragem de Dados
 
 Condições lógicas
-Transformações e remoções
+
+🔹 Transformações e Limpeza de Dados
 
 Criação de novas colunas
-Ordenação
-Conversão de tipos
-Aplicando funções em linhas e colunas
-Removendo Duplicatas
-Trabalhando com NAs
-GroupBy
 
-Agregando dados
-O método agg
+Ordenação
+
+Conversão de tipos
+
+Aplicação de funções em linhas e colunas
+
+Remoção de duplicatas
+
+Tratamento de valores ausentes (NAs)
+
+🔹 GroupBy e Agregações
+
+Agregação de dados
+
+Método agg
+
 Agregações personalizadas
-Cruzamento de dados
+
+🔹 Cruzamento e Combinação de Dados
 
 Merge
+
 Concat
-Manipulações adicionais
+
+🔹 Manipulações Avançadas
 
 Stack
-Unstack
-Pivot Table
-Explode
-Conectando com Bancos SQL
 
-Importando dados
-Executando Queries
-Escrevendo dados
+Unstack
+
+Pivot Table
+
+Explode
+
+🔹 Conexão com Bancos de Dados SQL
+
+Importação de dados
+
+Execução de queries
+
+Escrita de dados no banco
+
+🚀 Objetivo do Curso
+
+Capacitar o aluno a analisar, manipular e transformar dados com Pandas, preparando-o para aplicações em Análise de Dados, Ciência de Dados e Machine Learning.
