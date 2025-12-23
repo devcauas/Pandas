@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pandas 2025
 
 Curso renovado de Pandas realizado ao vivo de form gratuita, com gravação disponível no [YouTube](youtube.com/@teomewhy).
@@ -60,3 +61,4 @@ Utilizaremos dados reais durante o nosso curso. Acesse os [dados aqui](https://w
     - Importando dados
     - Executando Queries
     - Escrevendo dados
+=======
