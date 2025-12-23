@@ -1,4 +1,4 @@
-# Pandas 2025 - (Apredizado guiado pelo profissional Téo Me Why)
+# Biblioteca Pandas 
 
 ## Pré-requisito
 
