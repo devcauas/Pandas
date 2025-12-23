@@ -1,12 +1,11 @@
 # Biblioteca Pandas 
 
-## Pré-requisito
+## Pré-requisitos:
 
 - Ter Python instalado. Sugestão de vídeo para instalação.
 - Python Básico: sintaxe da linguagem e lógica de programação.
 
 ## Ementa
-
 1. Principais objetos do Pandas
     - Series
     - Dataframes
