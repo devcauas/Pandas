@@ -2,9 +2,14 @@
 
 import pandas as pd
 
-df = pd.read_csv("../data/transacoes.csv")
-df.head()
+clientes = pd.read_csv("../data/clientes.csv", sep=';')
+clientes.head()
 
+#%%
+
+filtro = clientes['qtdePontos'] == 0
+clientes_0 = clientes[filtro]
+clientes_0["flag_1"] = 1
 # %%
 
  
